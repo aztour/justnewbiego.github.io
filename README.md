@@ -6,10 +6,12 @@
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
 [inject xl](http://justnewbiego.blogspot.com/2017/03/inject-xl-terbaru-2017-stigs.html)
+
 [inject xl 2017](http://justnewbiego.blogspot.com/2017/03/inject-xl-terbaru-2017-stigs.html)
+
 [inject xl terbaru](http://justnewbiego.blogspot.com/2017/03/inject-xl-terbaru-2017-stigs.html)
 
-[akun vpn gratis](http://justnewbiego.blogspot.com/2016/12/cara-membuat-akun-vpn-1-bulan-gratis.html))
+[akun vpn gratis](http://justnewbiego.blogspot.com/2016/12/cara-membuat-akun-vpn-1-bulan-gratis.html)
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
