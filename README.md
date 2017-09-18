@@ -3,6 +3,7 @@
 [info harga sewa bus di cirebon](http://infohargasewabus.com/wp/)
 [daftar harga sewa bus pariwisata 2017](http://infohargasewabus.com/wp/)
 
+[bangga menggunakan jam tangan original asli indonesia](http://justnewbiego.blogspot.com/2017/09/bangga-menggunakan-jam-tangan-original.html)
 
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
